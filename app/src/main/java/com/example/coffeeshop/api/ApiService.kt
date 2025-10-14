@@ -1,4 +1,4 @@
-package com.example.coffeeshop.Interface
+package com.example.coffeeshop.api
 
 import com.example.coffeeshop.model.LoginRequest
 import com.example.coffeeshop.model.LoginResponse
