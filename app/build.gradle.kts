@@ -55,4 +55,9 @@ dependencies {
     implementation("com.google.code.gson:gson:2.13.1")
     implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("com.github.Dimezis:BlurView:version-2.0.3")
+
+    //Retrofit dependencies
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.0")
 }
